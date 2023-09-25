@@ -1,7 +1,5 @@
 
-# Exercise Solutions
-
-## FINDING ERRORS EXERCISE
+## EXERCISE 1: Getting, Manipulating, & Directing Text Data
 _**Goal:**_ extract all the errors in the log filter and sort all unique errors.
 | Step   | Task |
 |-|-|
@@ -18,7 +16,7 @@ _**Goal:**_ extract all the errors in the log filter and sort all unique errors.
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/bKKZ5syMMDY/mqdefault.jpg?v=6510c3bb&sqp=CKCIw6gG&rs=AOn4CLD21bipUvOZSL_naAS-5nnVaEtn1w)](https://youtu.be/bKKZ5syMMDY)
 
 ***
-## FINDING ERRORS SOLUTION
+## EXERCISE 1 SOLUTION
 | Step   | MacOS        | Windows (PowerShell) |
 |-|-|-|
 | 1 | `cd ~/Desktop` | `cd $env:USERPROFILE\Desktop`|
@@ -41,7 +39,7 @@ error 6
 ```
 ***
 
-## HEADERS SHELL SCRIPT EXERCISE
+## EXERCISE 2: Executing Shell Scripts from Any Directory
 _**Goal:**_ Modify the shell script to work on Python files. Then, make it executable from any directory on your computer.
 | Step   | Task |
 |-|-|
@@ -61,7 +59,7 @@ You should be able to just call this variable with `$(FILEWITHHEADER)` and have 
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/qB74sIWwN5k/mqdefault.webp?v=6510bf93&sqp=CJyBw6gG&rs=AOn4CLDuUHXiJYdD5R22cF7CbHvZVF2_Pw)](https://youtu.be/qB74sIWwN5k)
 ***
 
-## HEADERS SHELL SCRIPT SOLUTION
+## EXERCISE 2 SOLUTION
 | Step   | MacOS        | Windows (PowerShell) |
 |-|-|-|
 | 1 | `cd desktop` | `cd $env:USERPROFILE\Desktop`|
