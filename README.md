@@ -267,10 +267,12 @@ For help in using the CLI, your best friends will be Google, ChatGPT, & StackOve
 
 
 [**The Ultimate Guide to the Linux Terminal**](https://youtu.be/ZtqBQ68cfJc?si=YkqnN0WFNigYRcCr)
+
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/ZtqBQ68cfJc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJwB4di1rWyAaEM50TaJ1QpajbqQ)](https://youtu.be/ZtqBQ68cfJc?si=YkqnN0WFNigYRcCr)
 
 
 [**PowerShell Made Easy**](https://youtu.be/b7SGPchYRn0?si=AmLaJC4jqdEscc44)
+
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/b7SGPchYRn0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALom2inBG9IhWYzh2n1RBhDjfwow)](https://youtu.be/b7SGPchYRn0?si=AmLaJC4jqdEscc44)
 
 ## Be sure to check out the [exercises](/exercises/) folder for some beginner exercises to explore the most important topics!
