@@ -1,5 +1,9 @@
-# INTRO TO THE COMMAND LINE @ THE ROUX :) 
+# INTRO TO THE COMMAND LINE
 
+![IMAGE ALT TEXT HERE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcPTeaOQ0liT3Rx4B7mdwyxLktierCf3sbA&usqp=CAU
+)
+
+***
 ## **1. CLI Basics**
 **A. What's the point of the CLI?**
 
