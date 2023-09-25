@@ -1,3 +1,4 @@
+# INTRO TO THE COMMAND LINE @ THE ROUX :) 
 
 ## **1. CLI Basics**
 **A. What's the point of the CLI?**
