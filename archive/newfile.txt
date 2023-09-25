@@ -1,0 +1,19 @@
+goodbye
+
+
+world
+
+
+
+i'm
+
+
+briggs
+
+
+error
+
+def afunction():
+
+goodbye
+
