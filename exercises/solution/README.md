@@ -56,7 +56,8 @@ _**Goal:**_ Modify the shell script to work on Python files. Then, make it execu
 
 You should be able to just call this variable with `$(FILEWITHHEADER)` and have it execute the script, saving you the time to write headers when you create files!
 
-[**VIDEO SOLUTION:** Terminal Exercise 2 -- Executing Shell Scripts from Any Directory](https://youtu.be/qB74sIWwN5k) 
+[**VIDEO SOLUTION:** Terminal Exercise 2 -- Executing Shell Scripts from Any Directory](https://youtu.be/qB74sIWwN5k)
+ 
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/qB74sIWwN5k/mqdefault.webp?v=6510bf93&sqp=CJyBw6gG&rs=AOn4CLDuUHXiJYdD5R22cF7CbHvZVF2_Pw)](https://youtu.be/qB74sIWwN5k)
 ***
 
