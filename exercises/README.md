@@ -18,6 +18,8 @@ _**Goal:**_ extract all the errors in the log filter and sort all unique errors.
 
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/bKKZ5syMMDY/mqdefault.jpg?v=6510c3bb&sqp=CJzU0agG&rs=AOn4CLDDWJby9GTrLuE_TQsk_ePLp4bAkg)](https://youtu.be/bKKZ5syMMDY)
 
+_Try out the commands on the [file_with_errors_large.txt](./file_with_errors_large.txt) and see if it works_
+
 ***
 
 ## EXERCISE 2:  Executing Shell Scripts from Any Directory
