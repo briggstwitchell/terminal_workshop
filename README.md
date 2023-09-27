@@ -74,9 +74,6 @@ _TIP_: Use `ctrl+r` to search your command history. You can also use `history` t
 | `:r [file]`               | Insert the content of [file] below the cursor. |
 | `:set number`               | Display line numbers |
 
-Video --LINK HERE
-
-LINK TO NANO RESOURCE
 ***
 **D. Searching for & within files**
 
@@ -92,7 +89,6 @@ Here are some commands for searching _within_ files:
 | `grep ["search term"] [filename]`|`findstr ["search term"] [filename]`| Returns back the line(s) that contains the search term.|
 | `sed "s/old_text/new_text/g" [filename]`|N/A - will likely use powershell for this| Substitutes old text with next text for all instances. Note that `s` stands for substitute and `g` stands for global. |
 
-Video --LINK HERE
 ***
 ### <ins>_E. File permission basics_</ins>
 
@@ -258,7 +254,7 @@ Shell scripts end in `.sh`, and (just like any other programming language) they 
 
 As always, reference `man bash` for further details on this topic.
 
-[Here's](LINKTOFILE) an example of a simple shell script that can automate the task of writing headers into our Python, Java, & C files: 
+[Here's](./exercises/solution/make_header_solution.sh) an example of a simple shell script that can automate the task of writing headers into our Python, Java, & C files: 
 
 Note in this file that we use `$(some_command)` to invoke a CLI command within the script.
 
