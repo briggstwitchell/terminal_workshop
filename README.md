@@ -37,7 +37,7 @@ Real software engineers & IT administrators use it in industry all the time, so 
 | `echo [text]`            | `echo [text]`          | Display text in the terminal.                      |
 | `man [command]` | `[command] --help` | Shows the official manual page for a given command as well as options for the command. |
 
-_TIP_: Use `ctrl+r` to search your command history. You can also use `history` to get a view of your last several commands.
+_TIP_: Use `ctrl+r` to search your command history. You can also use `history` to get a view of your last several commands, and the up arrow pulls up your previous command executed.
 
 #### **Absolute** vs **Relative** paths
 > _**Absolute**_ paths always begin with a '`/`' character (ex. `/Users/Barney/Desktop`). On the other hand, _**relative**_ paths are always in relation to your current directory, so if you're in the director: `/Users/Barney/Documents` and then do `cd myFriends`, you'll navigate to `/Users/Barney/Documents/myFriends`.
