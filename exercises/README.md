@@ -33,7 +33,6 @@ _**Goal:**_ Modify the shell script to work on Python files. Then, make it execu
 | 5 | Move your edited .sh file to `PATH` (need to invoke super user access for this) |
 | 6 | Modify the permissions on the make_header.sh file in your PATH to be _executable_ (need to invoke super user access for this)|
 | 7 | Create or modify your `.zshprofile` (`.bash_profile` if you're using bash) file to include a new     environment variable called 'FILEWITHHEADER', that points to your `make_header.sh` executable.|
-| 8 | Create an environment variable called 'FILEWITHHEADER' and assign it the value of the path to the shell script file |
 
 You should be able to just call this variable with `$(FILEWITHHEADER)` and have it execute the script, saving you the time to write headers when you create files!
 
