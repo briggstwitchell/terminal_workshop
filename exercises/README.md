@@ -14,7 +14,7 @@ _**Goal:**_ extract all the errors in the log filter and sort all unique errors.
 | 7 | Find the errors in the file and send all unique errors to a new textfile, sorting them in ascending order |
 | 8 | Check that your new file contains only unique errors in sorted order |
 
-[**VIDEO SOLUTION::** Terminal Exercise 1 -- Getting, Manipulating, & Directing Text Data](https://youtu.be/bKKZ5syMMDY) 
+[**VIDEO SOLUTION:** Terminal Exercise 1 -- Getting, Manipulating, & Directing Text Data](https://youtu.be/bKKZ5syMMDY) 
 
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/bKKZ5syMMDY/mqdefault.jpg?v=6510c3bb&sqp=CJzU0agG&rs=AOn4CLDDWJby9GTrLuE_TQsk_ePLp4bAkg)](https://youtu.be/bKKZ5syMMDY)
 
