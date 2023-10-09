@@ -78,7 +78,7 @@ _TIP_: Use `ctrl+r` to search your command history. You can also use `history` t
 | `:r [file]`               | Insert the content of [file] below the cursor. |
 | `:set number`               | Display line numbers |
 
-_TIP_:Vim comes pre-installed on Mac. One windows, you'll need to [download](https://www.vim.org/download.php) it.
+_NOTE_: Vim comes pre-installed on Mac. One windows, you'll need to [download](https://www.vim.org/download.php) it.
 
 ***
 **D. Searching for & within files**
