@@ -18,7 +18,7 @@ What's it good for?
 Real software engineers & IT administrators use it in industry all the time, so for communication purposes alone it's important to understand!
 ***
 _Before we get started:_
-If you're on a Mac machine, you're all set to do Linux commands. If you're on a Windows machine, you can use PowerShell Commands (many are listed below), or you can [install](https://learn.microsoft.com/en-us/windows/wsl/install) WSL on your machine to have access to all Linux Terminal commands (this is recommended!)
+If you're on a Mac machine, you're all set to do Linux commands. If you're on a Windows machine, you can use PowerShell Commands (many are listed below), or you can [install](https://learn.microsoft.com/en-us/windows/wsl/install) WSL on your machine to have access to all Linux Terminal commands (this is recommended!) To do this run PowerShell as Administrator and then execute `wsl --install` within PowerShell.
 
 ***
 **B. Basic commands**
