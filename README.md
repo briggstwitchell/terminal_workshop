@@ -18,7 +18,15 @@ What's it good for?
 Real software engineers & IT administrators use it in industry all the time, so for communication purposes alone it's important to understand!
 ***
 _Before we get started:_
-If you're on a Mac machine, you're all set to do Linux commands. If you're on a Windows machine, you can use PowerShell Commands (many are listed below), or you can [install](https://learn.microsoft.com/en-us/windows/wsl/install) WSL on your machine to have access to all Linux Terminal commands (this is recommended!) To do this run PowerShell as Administrator and then execute `wsl --install` within PowerShell.
+If you're on a Mac or Ubuntu machine, you're all set to execute Linux commands. If you're on a Windows machine, you can use PowerShell Commands (many are listed below), or you can [install](https://learn.microsoft.com/en-us/windows/wsl/install) WSL on your machine to have access to all Linux Terminal commands (this is recommended!)
+
+
+[Installing](https://youtu.be/ZtqBQ68cfJc?si=TWcyx1v3tpyv7MUW&t=1268) WSL on Windows:
+1) Run PowerShell as Administrator
+2) Execute the `wsl --install` command within PowerShell
+3) Reboot your computer
+4) Use the Windows key to search for the Ubuntu app and run it
+5) Create a Username and password
 
 ***
 **B. Basic commands**
