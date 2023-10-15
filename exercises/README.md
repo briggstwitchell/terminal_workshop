@@ -8,7 +8,7 @@ _**Goal:**_ extract all the errors in the log filter and sort all unique errors.
 | 1 | Navigate to desktop |
 | 2 | Create a new folder called 'terminal_practice' |
 | 3 | Go into your new folder |
-| 4 | [Download](./file_with_errors.txt) the `file_with_errors.txt` file from Github and it in your new folder. |
+| 4 | [Download]([./file_with_errors.txt](https://raw.githubusercontent.com/briggstwitchell/terminal_workshop/main/exercises/file_with_errors.txt)) the `file_with_errors.txt` file from Github and it in your new folder. |
 | 5 | Peak at the contents of the file you just downloaded |
 | 6 | Create a new text file called 'unique_errors.txt' that we'll send all the unique errors to |
 | 7 | Find the errors in the file and send all unique errors to a new textfile, sorting them in ascending order |
