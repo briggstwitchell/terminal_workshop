@@ -293,6 +293,8 @@ For help in using the CLI, your best friends will be Google, ChatGPT, & StackOve
 #### __Reference Manuals:__
 [Linux Commands Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 
+[Vim Cheat Sheet](https://vim.rtorr.com/)
+
 [PowerShell Quick Reference](https://practicalpowershell.com/wp-content/uploads/2020/04/PowerShellQuickReference-PowerShell7.0-v1.03.pdf)
 
 ## Be sure to check out the [exercises](/exercises/) folder for some beginner exercises to explore the most important topics!
