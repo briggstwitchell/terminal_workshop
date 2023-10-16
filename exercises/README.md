@@ -27,7 +27,7 @@ _**Goal:**_ Modify the shell script to work on Python files. Then, make it execu
 | Step   | Task |
 |-|-|
 | 1 | Navigate to desktop |
-| 2 | [Download](make_header.sh) the `make_header.sh` file from Github. |
+| 2 | [Download](https://raw.githubusercontent.com/briggstwitchell/terminal_workshop/main/exercises/make_header.sh) the `make_header.sh` file from Github. |
 | 3 | Edit the `make_header.sh` file with Vim & TMUX to make it compatible with Python (it already works with Java & C) |
 | 4 | Find your `PATH` directories for executable files |
 | 5 | Move your edited .sh file to `PATH` (need to invoke super user access for this) |
