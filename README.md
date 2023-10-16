@@ -290,4 +290,9 @@ For help in using the CLI, your best friends will be Google, ChatGPT, & StackOve
 
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/b7SGPchYRn0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALom2inBG9IhWYzh2n1RBhDjfwow)](https://youtu.be/b7SGPchYRn0?si=AmLaJC4jqdEscc44)
 
+#### __Reference Manuals:__
+[Linux Commands Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
+
+[PowerShell Quick Reference](https://practicalpowershell.com/wp-content/uploads/2020/04/PowerShellQuickReference-PowerShell7.0-v1.03.pdf)
+
 ## Be sure to check out the [exercises](/exercises/) folder for some beginner exercises to explore the most important topics!
