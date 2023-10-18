@@ -32,7 +32,7 @@ fi
 
 # write to java or c file
 if [[ "$FILENAME" == *".java" ]] || [[ "$FILENAME" == *".c" ]]; then
-	$(echo "/*\n$YOURNAME\n$PROFESSOR\n$COURSE\n$DATE\n*/\n\n" >> $FILENAME)
+	$(echo -e "/*\n$YOURNAME\n$PROFESSOR\n$COURSE\n$DATE\n*/\n\n" >> $FILENAME)
 
 #TODO -- MAKE IT WORK FOR PYTHON FILES 
 ######## YOUR CODE GOES HERE ##########
