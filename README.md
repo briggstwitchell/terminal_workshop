@@ -157,12 +157,11 @@ This gives the owner full permissions (`rwx` or `7`), and the group and others r
 We can use the pipe character -- '`|`' -- to chain together multiple commands. Often it's helpful to use the output from one command as the input of another command. Here's an example:
 
 ```
-ls  | grep ".txt" | wc -l
+ls | wc -l
 ```
-This sequence of commands has three steps:
+This sequence of commands has two parts, in sequence:
 1. `ls` **&#8592;** list all files in the current directory
-2. `grep "*.txt"` **&#8592;** filter for only the lines returned ending with `.txt`
-3. `wc -l` **&#8592;** count the number of files returned from the previous command
+2. `wc -l` **&#8592;** count the number of files returned from the previous command
 
 Chaining commands can be especially helpful for filtering & sorting large amounts of data.
 ***
