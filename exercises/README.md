@@ -16,7 +16,9 @@ _**Goal:**_ extract all the errors in the log filter and sort all unique errors.
 
 [**VIDEO SOLUTION:** Terminal Exercise 1 -- Getting, Manipulating, & Directing Text Data](https://youtu.be/bKKZ5syMMDY) 
 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/bKKZ5syMMDY/mqdefault.jpg?v=6510c3bb&sqp=CJzU0agG&rs=AOn4CLDDWJby9GTrLuE_TQsk_ePLp4bAkg)](https://youtu.be/bKKZ5syMMDY)
+<a href="https://youtu.be/bKKZ5syMMDY">
+  <img src="../imgs/video_1_img.png" alt="IMAGE ALT TEXT HERE" width="300"/>
+</a>
 
 _Try out the commands on the [file_with_errors_large.txt](./file_with_errors_large.txt) and see if it works_
 
@@ -37,8 +39,11 @@ _**Goal:**_ Modify the shell script to work on Python files. Then, make it execu
 You should be able to just call this variable with `$(FILEWITHHEADER)` and have it execute the script, saving you the time to write headers when you create files!
 
 [**VIDEO SOLUTION:** Terminal Exercise 2 -- Executing Shell Scripts from Any Directory](https://youtu.be/qB74sIWwN5k)
+
+<a href="https://youtu.be/qB74sIWwN5k">
+  <img src="../imgs/video_2_img.png" alt="IMAGE ALT TEXT HERE" width="300"/>
+</a>
  
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/qB74sIWwN5k/mqdefault.webp?v=6510bf93&sqp=CJzU0agG&rs=AOn4CLBgK1wCzjzc4KLYtvUBEheUmSussQ)](https://youtu.be/qB74sIWwN5k)
 ***
 
 
