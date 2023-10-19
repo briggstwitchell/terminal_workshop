@@ -297,4 +297,6 @@ For help in using the CLI, your best friends will be Google, ChatGPT, & StackOve
 
 [PowerShell Quick Reference](https://practicalpowershell.com/wp-content/uploads/2020/04/PowerShellQuickReference-PowerShell7.0-v1.03.pdf)
 
+[Workshop Zoom recording](https://www.dropbox.com/scl/fi/zr8fbnc2i0naeolqufh1m/terminal_workshop_Zoom_recording.mp4?rlkey=88qahaaih1e0wgf7uwusx50x0&dl=0)
+
 ## Be sure to check out the [exercises](/exercises/) folder for some beginner exercises to explore the most important topics!
